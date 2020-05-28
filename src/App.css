@@ -3,9 +3,9 @@
 	padding: 0;
 	height: 100vh;
 	box-sizing: border-box;
-	font-family: "Gyparody";
+	font-family: monospace;
 	text-align: center;
-background-color: whitesmoke;
+    background-color: whitesmoke;
 }
 
 .app {
